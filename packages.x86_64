@@ -1,0 +1,10 @@
+broadcom-wl
+base-devel
+binutils
+linux-headers
+linux-api-headers
+net-tools
+iw
+wireless_tools
+curl
+wget
